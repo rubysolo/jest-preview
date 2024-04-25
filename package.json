@@ -76,7 +76,6 @@
     "sirv": "^2.0.2",
     "slash": "^3.0.0",
     "string-hash": "^1.1.3",
-    "update-notifier": "^6.0.2",
     "ws": "^8.5.0"
   },
   "devDependencies": {
